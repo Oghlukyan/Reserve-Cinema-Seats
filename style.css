@@ -1,0 +1,34 @@
+.seat {
+    border-radius: 40%;
+    height: 35px;
+    width: 35px;
+    display: inline-block;
+}
+
+.emptySeat {
+    background-color: mediumpurple;
+}
+
+.emptySeat:hover {
+    background-color: blueviolet;
+}
+
+.emptySeat:active {
+    background-color: rebeccapurple;
+}
+
+.checkedSeat {
+    background-color: chartreuse;
+}
+
+.checkedSeat:hover {
+    background-color: limegreen;
+}
+
+.checkedSeat:active {
+    background-color: green;
+}
+
+.reservedSeat {
+    background-color: darkred;
+}
