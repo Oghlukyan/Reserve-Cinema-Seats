@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8198bb76-593d-49fa-81dc-60b41f9c3618" name="Default" comment="" />
+    <list default="true" id="8198bb76-593d-49fa-81dc-60b41f9c3618" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/show_seats.js" afterPath="$PROJECT_DIR$/show_seats.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +29,28 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="show_seats.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/show_seats.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding>
+                <element signature="e#818#852#0" expanded="false" />
+                <element signature="e#1133#1473#0" expanded="false" />
+                <element signature="e#1516#1741#0" expanded="false" />
+                <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
+                <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
+                <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
+                <element signature="n#!!block;n#getFilledData#0" expanded="false" />
+                <element signature="n#!!block;n#validateData#0" expanded="false" />
+                <element signature="n#!!block;n#reserveSeats#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,6 +66,9 @@
       <find>console</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -54,8 +80,8 @@
         <option value="$PROJECT_DIR$/validate_email.php" />
         <option value="$PROJECT_DIR$/connection.php" />
         <option value="$PROJECT_DIR$/reserve_seats.php" />
-        <option value="$PROJECT_DIR$/show_seats.js" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/show_seats.js" />
       </list>
     </option>
   </component>
@@ -72,6 +98,7 @@
     <option name="width" value="916" />
     <option name="height" value="1416" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -87,7 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,7 +126,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,20 +169,22 @@
       <workItem from="1525864454635" duration="10393000" />
       <workItem from="1525883397824" duration="9731000" />
       <workItem from="1525968905513" duration="8899000" />
+      <workItem from="1526042602068" duration="648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58392000" />
+    <option name="totallyTimeSpent" value="59040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25358167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -187,13 +216,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -234,7 +257,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -249,13 +272,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -276,7 +293,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -303,13 +320,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -317,7 +328,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
           <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -328,7 +338,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -343,13 +353,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="33" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -357,7 +361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -368,7 +371,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -383,13 +386,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -397,7 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="14" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="4" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -413,7 +409,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -428,13 +424,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -450,7 +440,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -465,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -473,13 +462,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -492,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -503,7 +485,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -518,13 +500,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -532,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,7 +518,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -563,13 +538,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -580,7 +549,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -600,13 +569,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -617,7 +580,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -637,13 +600,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -654,7 +611,7 @@
           <folding>
             <element signature="e#818#852#0" expanded="false" />
             <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
             <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
             <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
@@ -674,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="758" column="0" lean-forward="false" selection-start-line="758" selection-start-column="0" selection-end-line="758" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,35 +678,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/show_seats.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <element signature="e#818#852#0" expanded="false" />
-            <element signature="e#1133#1473#0" expanded="false" />
-            <element signature="e#1516#1699#0" expanded="false" />
-            <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
-            <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
-            <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
-            <element signature="n#!!block;n#getFilledData#0" expanded="false" />
-            <element signature="n#!!block;n#validateData#0" expanded="false" />
-            <element signature="n#!!block;n#reserveSeats#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="71" lean-forward="false" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
-          <folding>
-            <element signature="n#button#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -763,6 +694,24 @@
             <marker date="1525900749818" expanded="true" signature="93:125" ph="SELECT * FRO... reserved tickets" />
             <marker date="1525900749818" expanded="true" signature="93:127" ph="SELECT * FRO... reserved tickets" />
             <marker date="1525900749818" expanded="true" signature="106:124" ph="INSERT INTO `reserved tickets`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_seats.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#818#852#0" expanded="false" />
+            <element signature="e#1133#1473#0" expanded="false" />
+            <element signature="e#1516#1741#0" expanded="false" />
+            <element signature="n#!!block;n#emptySeatClickListener#0" expanded="false" />
+            <element signature="n#!!block;n#checkedSeatClickListener#0" expanded="false" />
+            <element signature="n#!!block;n#getReservedSeats#0" expanded="false" />
+            <element signature="n#!!block;n#getFilledData#0" expanded="false" />
+            <element signature="n#!!block;n#validateData#0" expanded="false" />
+            <element signature="n#!!block;n#reserveSeats#0" expanded="false" />
           </folding>
         </state>
       </provider>

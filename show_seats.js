@@ -42,6 +42,7 @@ $(function () {
         if (validateData(filledData)) {
             reserveSeats(checkedSeats, filledData);
             getReservedSeats();
+            $('#fillData').modal('hide');
         }
     });
 });
